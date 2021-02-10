@@ -1,0 +1,9 @@
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\bin\Debug\Business.dll
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\bin\Debug\Business.pdb
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\bin\Debug\Database.dll
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\bin\Debug\Database.pdb
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\obj\Debug\Business.dll
+D:\Estudo_Dotnet_Framework\ControleConteudo\Business\obj\Debug\Business.pdb
