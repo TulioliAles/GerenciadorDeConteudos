@@ -79,3 +79,5 @@ D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\obj\Debug\ControleC
 D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\obj\Debug\ControleConteudo.csproj.CopyComplete
 D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\obj\Debug\ControleConteudo.dll
 D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\obj\Debug\ControleConteudo.pdb
+D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\bin\Database.dll
+D:\Estudo_Dotnet_Framework\ControleConteudo\ControleConteudo\bin\Database.pdb

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using Business;
 using System.Web.Mvc;
 
 namespace ControleConteudo.Controllers
@@ -10,6 +7,8 @@ namespace ControleConteudo.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Paginas = new Pagina().Lista();
+
             return View();
         }
 
